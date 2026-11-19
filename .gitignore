@@ -21,3 +21,6 @@ venv/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Trained Transformer checkpoints
+models/language_models/*.pt

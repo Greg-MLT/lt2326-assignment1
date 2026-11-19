@@ -1,0 +1,17 @@
+{
+  "character": {
+    "total": 6457059,
+    "input_embeddings": 2417408,
+    "output_layer": 2426851
+  },
+  "bpe_2000": {
+    "total": 2638800,
+    "input_embeddings": 512000,
+    "output_layer": 514000
+  },
+  "bpe_10000": {
+    "total": 6742800,
+    "input_embeddings": 2560000,
+    "output_layer": 2570000
+  }
+}
