@@ -1,0 +1,62 @@
+{
+  "character": {
+    "en": {
+      "bpc": 2.4212612613583904,
+      "total_loss": 618129.4650878906,
+      "total_tokens": 363837,
+      "total_characters": 368309
+    },
+    "tr": {
+      "bpc": 2.45640711169899,
+      "total_loss": 627158.119140625,
+      "total_tokens": 364550,
+      "total_characters": 368342
+    },
+    "zh": {
+      "bpc": 6.560778766004605,
+      "total_loss": 1674716.501953125,
+      "total_tokens": 358835,
+      "total_characters": 368265
+    }
+  },
+  "bpe_2000": {
+    "en": {
+      "bpc": 2.2274146418720107,
+      "total_loss": 568641.907043457,
+      "total_tokens": 197022,
+      "total_characters": 368309
+    },
+    "tr": {
+      "bpc": 2.32752486075187,
+      "total_loss": 594252.5190429688,
+      "total_tokens": 212593,
+      "total_characters": 368342
+    },
+    "zh": {
+      "bpc": 6.203515211077056,
+      "total_loss": 1583520.747253418,
+      "total_tokens": 343235,
+      "total_characters": 368265
+    }
+  },
+  "bpe_10000": {
+    "en": {
+      "bpc": 2.0404774518046596,
+      "total_loss": 520918.2734375,
+      "total_tokens": 106042,
+      "total_characters": 368309
+    },
+    "tr": {
+      "bpc": 2.1186915793054895,
+      "total_loss": 540934.2041015625,
+      "total_tokens": 105517,
+      "total_characters": 368342
+    },
+    "zh": {
+      "bpc": 6.047370737078733,
+      "total_loss": 1543663.0205078125,
+      "total_tokens": 270467,
+      "total_characters": 368265
+    }
+  }
+}
